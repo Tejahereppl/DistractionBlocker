@@ -114,7 +114,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 });
 
 async function analyzeWithGemini(content) {
-    const API_KEY = 'AIzaSyDuBZP3yPHNgql5ge8vbOXOEaMcyA8goQY'; // Replace with your API key
+    const API_KEY = 'Enter your Gemini key'; 
     const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
 
     try {
