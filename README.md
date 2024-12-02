@@ -25,7 +25,7 @@
 
 ## 🎯 How to Use
 
-1. Click on the **Productivity Hacker** icon in your Chrome toolbar.
+1. Click on the **Distraction Blocker** icon in your Chrome toolbar.
 2. Enter your study topic or work goal (e.g., *Data Structures*, *Marketing Analysis*).
 3. Begin working with a clear focus! 🚀
 4. If you open an irrelevant tab:
@@ -34,6 +34,6 @@
 
 ---
 
-## 💡 Why Productivity Hacker?
+## 💡 Why Distraction Blocker?
 
 We understand how challenging it can be to stay focused in a world full of distractions. **Productivity Hacker** is your personal accountability partner, helping you make the most of your time and energy.
