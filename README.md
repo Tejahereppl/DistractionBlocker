@@ -1,6 +1,6 @@
-# 📚 Productivity Hacker
+# 📚 Distraction Blocker
 
-**Productivity Hacker** is a Chrome extension designed to help you stay focused and avoid distractions while working or studying. It keeps you accountable by ensuring you only engage with content relevant to your goals.
+**Distraction Blocker** is a Chrome extension designed to help you stay focused and avoid distractions while working or studying. It keeps you accountable by ensuring you only engage with content relevant to your goals.
 
 ---
 
